@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WDC.Products.Core
-build_property.ProjectDir = /Users/ali/Desktop/WDC/Product/WDC.Products.Core/
+build_property.ProjectDir = /Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Core/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

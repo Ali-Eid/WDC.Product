@@ -10,3 +10,16 @@
 /Users/ali/Desktop/WDC/Product/WDC.Products.Data/obj/Debug/net8.0/refint/WDC.Products.Data.dll
 /Users/ali/Desktop/WDC/Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.pdb
 /Users/ali/Desktop/WDC/Product/WDC.Products.Data/obj/Debug/net8.0/ref/WDC.Products.Data.dll
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/bin/Debug/net8.0/WDC.Products.Data.deps.json
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/bin/Debug/net8.0/WDC.Products.Data.dll
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/bin/Debug/net8.0/WDC.Products.Data.pdb
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.sourcelink.json
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.dll
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/refint/WDC.Products.Data.dll
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/WDC.Products.Data.pdb
+/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/Debug/net8.0/ref/WDC.Products.Data.dll

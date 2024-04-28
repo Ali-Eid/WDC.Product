@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/WDC.Products.Data.csproj",
+      "projectUniqueName": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/WDC.Products.Data.csproj",
       "projectName": "WDC.Products.Data",
-      "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/WDC.Products.Data.csproj",
+      "projectPath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/WDC.Products.Data.csproj",
       "packagesPath": "/Users/ali/.nuget/packages/",
-      "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/obj/",
+      "outputPath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ali/.nuget/NuGet/NuGet.Config"
@@ -592,11 +592,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

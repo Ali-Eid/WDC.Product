@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b3RbfWv83BiyEv98pyOMcoV+xspPH7tGcdEtdqc17i6NTbyQI9j5TxdfxrKNwWuIr3On9z5Z/6K2FLXVE5trFg==",
+  "dgSpecHash": "cNKW8BANEnmlG+0vjZ9RzGVEquOyijX/K8FfvqnweSPeA2RKG1O0YWf41J3tRgX59a/Qv9YfsoaZUqCmINUvcA==",
   "success": true,
-  "projectFilePath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/WDC.Products.Data.csproj",
+  "projectFilePath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/WDC.Products.Data.csproj",
   "expectedPackageFiles": [
     "/Users/ali/.nuget/packages/microsoft.entityframeworkcore/8.0.4/microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "/Users/ali/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.4/microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",

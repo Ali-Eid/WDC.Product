@@ -4130,11 +4130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Products.Infrastructure/WDC.Products.Infrastructure.csproj",
+      "projectUniqueName": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Infrastructure/WDC.Products.Infrastructure.csproj",
       "projectName": "WDC.Products.Infrastructure",
-      "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Infrastructure/WDC.Products.Infrastructure.csproj",
+      "projectPath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Infrastructure/WDC.Products.Infrastructure.csproj",
       "packagesPath": "/Users/ali/.nuget/packages/",
-      "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Infrastructure/obj/",
+      "outputPath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ali/.nuget/NuGet/NuGet.Config"
@@ -4150,8 +4150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/WDC.Products.Data.csproj": {
-              "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Data/WDC.Products.Data.csproj"
+            "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/WDC.Products.Data.csproj": {
+              "projectPath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Data/WDC.Products.Data.csproj"
             }
           }
         }
@@ -4160,11 +4160,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {

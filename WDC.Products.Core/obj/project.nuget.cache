@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q19LSQfNMBNFbnWINcnLmfBJJ0/pxyHRhbKsqjuBjyxaLaJX3Pgl02oH8xdzdUjcuzKsTGARK6TogXgcyyMcsA==",
+  "dgSpecHash": "n0KAVxmqverIw5Zi9cab4uIVG9rETCoqartp3ww+Hh60kcimojZGGYZ1Dw6gmUTuxOwgQiHtu+MTqdw7Hz3Shg==",
   "success": true,
-  "projectFilePath": "/Users/ali/Desktop/WDC/Product/WDC.Products.Core/WDC.Products.Core.csproj",
+  "projectFilePath": "/Users/ali/Desktop/WDC/WDC.Product/WDC.Products.Core/WDC.Products.Core.csproj",
   "expectedPackageFiles": [
     "/Users/ali/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/ali/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
