@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{236D01C9-EF52-4E62-8519-9C52CBC0712B}|https">
+  <MonoDevelop.Ide.ItemProperties.WDC.Product.Data FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WDC.Product.Core FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WDC.Order.Core/Bases/ResponseBase/Response.cs">
+    <Files>
+      <File FileName="WDC.Order.Core/Bases/ResponseBase/Response.cs" Line="4" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WDC.Product.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WDC.Product.Service FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WDC.Product.Infrastructure FirstBuild="True" />
+</Properties>

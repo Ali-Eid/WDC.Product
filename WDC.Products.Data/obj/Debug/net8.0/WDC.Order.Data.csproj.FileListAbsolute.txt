@@ -1,0 +1,12 @@
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/bin/Debug/net8.0/WDC.Order.Data.deps.json
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/bin/Debug/net8.0/WDC.Order.Data.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/bin/Debug/net8.0/WDC.Order.Data.pdb
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.csproj.AssemblyReference.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.AssemblyInfoInputs.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.AssemblyInfo.cs
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/refint/WDC.Order.Data.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/WDC.Order.Data.pdb
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Data/obj/Debug/net8.0/ref/WDC.Order.Data.dll

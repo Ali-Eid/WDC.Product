@@ -1,0 +1,17 @@
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Infrastructure.deps.json
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Infrastructure.runtimeconfig.json
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Infrastructure.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Infrastructure.pdb
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Data.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/bin/Debug/net8.0/WDC.Order.Data.pdb
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.csproj.AssemblyReference.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.AssemblyInfoInputs.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.AssemblyInfo.cs
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Orde.1A49D0C2.Up2Date
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/refint/WDC.Order.Infrastructure.dll
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.pdb
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/WDC.Order.Infrastructure.genruntimeconfig.cache
+/Users/ali/Projects/WDC.Order.Api/WDC.Order.Infrastructure/obj/Debug/net8.0/ref/WDC.Order.Infrastructure.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/WDC.Product.Api.props" />
+</Project>

@@ -1,0 +1,17 @@
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Service.deps.json
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Service.dll
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Service.pdb
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Data.dll
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Infrastructure.dll
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Data.pdb
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/bin/Debug/net8.0/WDC.Products.Infrastructure.pdb
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.csproj.AssemblyReference.cache
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.AssemblyInfoInputs.cache
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.AssemblyInfo.cs
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Prod.9929AF9C.Up2Date
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.dll
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/refint/WDC.Products.Service.dll
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/WDC.Products.Service.pdb
+/Users/ali/Desktop/WDC/Product/WDC.Products.Service.app.Service/obj/Debug/net8.0/ref/WDC.Products.Service.dll

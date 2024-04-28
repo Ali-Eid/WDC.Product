@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qtF5FygakEzMwotI4stZ5y5t0v2DT6eZUtvWMMKLkQw=",
+  "Source": "WDC.Products.Api",
+  "BasePath": "_content/WDC.Products.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

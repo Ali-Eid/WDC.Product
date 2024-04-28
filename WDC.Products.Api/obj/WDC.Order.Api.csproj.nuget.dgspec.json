@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Api/WDC.Product.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Api/WDC.Product.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Product.Api/WDC.Product.Api.csproj",
+        "projectName": "WDC.Product.Api",
+        "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Api/WDC.Product.Api.csproj",
+        "packagesPath": "/Users/ali/.nuget/packages/",
+        "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/ali/Documents/nopCommerce-plugin-template-VS-nopCommerce-4.60/Nop.Plugin Template 4.60": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/WDC.Product.Core.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/WDC.Product.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/WDC.Product.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/WDC.Product.Core.csproj",
+        "projectName": "WDC.Product.Core",
+        "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/WDC.Product.Core.csproj",
+        "packagesPath": "/Users/ali/.nuget/packages/",
+        "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/ali/Documents/nopCommerce-plugin-template-VS-nopCommerce-4.60/Nop.Plugin Template 4.60": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj"
+              },
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj"
+              },
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/WDC.Product.Service.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/WDC.Product.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj",
+        "projectName": "WDC.Product.Data",
+        "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj",
+        "packagesPath": "/Users/ali/.nuget/packages/",
+        "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/ali/Documents/nopCommerce-plugin-template-VS-nopCommerce-4.60/Nop.Plugin Template 4.60": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj",
+        "projectName": "WDC.Product.Infrastructure",
+        "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj",
+        "packagesPath": "/Users/ali/.nuget/packages/",
+        "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/ali/Documents/nopCommerce-plugin-template-VS-nopCommerce-4.60/Nop.Plugin Template 4.60": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/WDC.Product.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/WDC.Product.Service.csproj",
+        "projectName": "WDC.Product.Service",
+        "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/WDC.Product.Service.csproj",
+        "packagesPath": "/Users/ali/.nuget/packages/",
+        "outputPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/ali/Documents/nopCommerce-plugin-template-VS-nopCommerce-4.60/Nop.Plugin Template 4.60": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Data/WDC.Product.Data.csproj"
+              },
+              "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj": {
+                "projectPath": "/Users/ali/Desktop/WDC/Product/WDC.Product.Infrastructure/WDC.Product.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
